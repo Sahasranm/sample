@@ -1,0 +1,30 @@
+a = 10
+b=30
+if(a==b)
+{
+    console.log("yes")
+}
+if(a===b)
+{
+    console.log("yes")
+}
+if(a!=b)
+{
+    console.log("yes")
+}
+if(a>=b)
+{
+    console.log("yes")
+}
+if(a<=b)
+{
+    console.log("yes")
+}
+if(a<b)
+{
+    console.log("yes")
+}
+if(a>b)
+{
+    console.log("yes")
+}
